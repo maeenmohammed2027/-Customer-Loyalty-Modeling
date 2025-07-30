@@ -14,3 +14,9 @@ This project simulates real-world customer analytics for a fictional retailer, h
 - Python: Pandas, Seaborn, Scikit-learn, Matplotlib
 - R: ggplot2, rpart, plotly
 - Jupyter Notebook
+- ## Repository Structure
+
+- `/python`: Jupyter notebooks with Python-based analysis and modeling
+- `/r`: R scripts for modeling and visualization
+- `/plots`: Key visualizations generated during analysis
+
