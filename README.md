@@ -1,32 +1,39 @@
 # Customer Loyalty Modeling Project
 
-This project analyzes and predicts customer loyalty points using clustering and decision tree modeling techniques.
-
-It simulates real-world customer analytics for a fictional retailer, aiming to improve customer loyalty through data-driven segmentation and targeted campaigns.
+This project analyzes and predicts customer loyalty points for a fictional retailer, **Turtle Games**, combining **Python** and **R** to deliver actionable insights.  
+It simulates a real-world customer analytics workflow, applying **statistical modeling, clustering, and sentiment analysis** to improve loyalty programs through **data-driven segmentation** and **targeted campaigns**.
 
 ## Key Features
 
-- **Exploratory Data Analysis** using R and Python  
-- **Customer Segmentation** via K-means clustering  
-- **Loyalty Prediction** using Decision Tree Regression  
-- **Visualizations**: Pairplots, 3D scatter plots, and distribution charts  
-- **Sentiment Analysis**: Word cloud generated from customer review text  
+- **Exploratory Data Analysis (EDA)** in both Python and R  
+- **Customer Segmentation** with K-means clustering  
+- **Loyalty Prediction** using Decision Tree Regression & Linear Models  
+- **Visualizations**: Pairplots, 3D scatter plots, boxplots, and distribution charts  
+- **Sentiment Analysis**: Word clouds & polarity scoring from customer reviews  
+- **Combined Python & R Workflow** for a comprehensive analysis  
 
 ## Tools & Libraries
 
-- **Python**: Pandas, Seaborn, Scikit-learn, Matplotlib  
-- **R**: ggplot2, rpart, plotly  
-- **Platform**: Jupyter Notebook  
+**Python**: Pandas, Seaborn, Scikit-learn, Matplotlib, TextBlob, WordCloud  
+**R**: ggplot2, forecast, scatterplot3d, psych, moments  
 
 ## Repository Structure
 
-- `/src`: Jupyter notebooks and R scripts for modeling and analysis  
-- `/plots`: Visual assets generated during EDA and modeling  
+- `/notebooks` – Jupyter Notebooks (Python)  
+- `/R_scripts` – R scripts for EDA and modeling  
+- `/plots` – Visual assets generated during analysis  
+- `/report` – Final project report (DOCX)  
 
-## How to Use
+## Results & Business Insights
 
-1. Clone the repository:  
+- High income and spending strongly predict loyalty — but some high-income customers remain under-engaged, offering retention opportunities.  
+- Clustering revealed **five distinct customer segments**, enabling tailored marketing strategies.  
+- Sentiment analysis highlighted recurring pain points such as unclear gameplay and product size concerns, guiding potential product improvements.  
+
+## Project Report
+
+📄 [Final Report – Turtle Games Customer Loyalty Analysis](report/TurtleGames_Customer_Loyalty_Analysis_Report.docx)
+
+
    ```bash
    git clone https://github.com/maeenmohammed2027/-Customer-Loyalty-Modeling.git
-
-
