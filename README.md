@@ -34,6 +34,13 @@ It simulates a real-world customer analytics workflow, applying **statistical mo
 
 📄 [Final Report – Turtle Games Customer Loyalty Analysis](report/TurtleGames_Customer_Loyalty_Analysis_Report.docx)
 
+## How to Use
 
+1. Clone the repository:
+
+
+Author:
+Maeen Mohammed 
+🔗 LinkedIn Profile: https://www.linkedin.com/in/maeen-mohammed
    ```bash
    git clone https://github.com/maeenmohammed2027/-Customer-Loyalty-Modeling.git
