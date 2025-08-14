@@ -32,7 +32,7 @@ It simulates a real-world customer analytics workflow, applying **statistical mo
 
 ## Project Report
 
-📄 [TurtleGames_Customer_Loyalty_Analysis_Reportt.pdf)
+📄 [T[urtleGames_Customer_Loyalty_Analysis_Reportt.pdf](https://github.com/maeenmohammed2027/-Customer-Loyalty-Modeling/blob/8a249124a15e879f870793dda0250a26f76e9fda/TurtleGames_Customer_Loyalty_Analysis_Reportt.pdf))
 
 
 Author:
