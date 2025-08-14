@@ -32,11 +32,7 @@ It simulates a real-world customer analytics workflow, applying **statistical mo
 
 ## Project Report
 
-📄 [Final Report – Turtle Games Customer Loyalty Analysis](report/TurtleGames_Customer_Loyalty_Analysis_Report.docx)
-
-## How to Use
-
-1. Clone the repository:
+📄 [TurtleGames_Customer_Loyalty_Analysis_Reportt.pdf)
 
 
 Author:
